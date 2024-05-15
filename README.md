@@ -17,7 +17,7 @@ Currently user will have to modify the solve function on their own in notebook f
 
 # Files
 
-- `script_name.py`: Main Python script containing functions to generate test cases and outputs.
+- `testCaseGenerator.ipynb`: Main Python script containing functions to generate test cases and outputs.
 - `inputs/`: Directory to store input files.
 - `outputs/`: Directory to store output files.
 
